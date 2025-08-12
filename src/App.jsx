@@ -10,7 +10,7 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Admission from "./pages/Admission";
 import Assignment from "./pages/Assignment";
-import EPayment from "./pages/ePayment";
+import EPayment from "./pages/EPayment";
 import Gallery from "./pages/Gallery";
 import AdminLogIn from "./pages/AdminLogIn";
 import ApplyNow from "./pages/AplyNow";
